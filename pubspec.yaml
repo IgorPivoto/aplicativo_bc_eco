@@ -36,6 +36,7 @@ dependencies:
   firebase_core: ^2.15.1
   firebase_auth: ^4.9.0
   flutter_bluetooth_serial: ^0.4.0
+  permission_handler: 11.0.0
  
   
 
